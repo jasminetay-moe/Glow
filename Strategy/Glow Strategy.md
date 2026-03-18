@@ -33,7 +33,7 @@ graph TD
 
 ## Vision
 
-Glow exists to make professional learning work better for teachers — not by adding more content, but by changing how and when it reaches them.
+Glow exists to make learning work better for teachers — not by adding more content, but by changing how and when it reaches them.
 
 ---
 
