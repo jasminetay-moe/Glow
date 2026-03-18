@@ -3,6 +3,34 @@ March 2026 | Jasmine Tay | For Internal DXD view only
 
 ---
 
+```mermaid
+graph TD
+    V["🎯 Vision\nChange how & when learning reaches teachers"]
+
+    V --> B1["📱 Bet 1: Glow Microlearning\nSame content · less time"]
+    V --> B2["💡 Bet 2: Glow CI\nRight guidance · right moment"]
+
+    B1 --> PR1["Prove\nFirst-attempt pass rate\ncondensed vs long-form"]
+    B2 --> PR2["Prove\nRecommendation card\nengagement rate ﹥40%"]
+
+    PR1 --> K1["⛔ Kill if\nNo meaningful pass rate improvement"]
+    PR2 --> K2["⛔ Kill if\nEngagement below threshold post-pilot"]
+
+    B1 --> SI["🚀 Strategic Impact\nProof of concept for\nstudent-side learning too"]
+    B2 --> SI
+
+    style V fill:#1a1a2e,color:#fff,stroke:#none
+    style B1 fill:#16213e,color:#fff,stroke:#0f3460
+    style B2 fill:#16213e,color:#fff,stroke:#0f3460
+    style PR1 fill:#0f3460,color:#fff,stroke:#none
+    style PR2 fill:#0f3460,color:#fff,stroke:#none
+    style K1 fill:#4a0000,color:#ffaaaa,stroke:#none
+    style K2 fill:#4a0000,color:#ffaaaa,stroke:#none
+    style SI fill:#003d1a,color:#aaffcc,stroke:#none
+```
+
+---
+
 ## Vision
 
 Glow exists to make professional learning work better for teachers — not by adding more content, but by changing how and when it reaches them.
