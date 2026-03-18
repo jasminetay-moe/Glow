@@ -47,6 +47,12 @@ Current professional learning for teachers fails on two fronts:
 
 ---
 
+## Limitations
+
+- **Content scale:** We don't have domain expertise in-house — content requires review and sign-off from Prof Wing before it can be published. This process takes time and caps how quickly we can grow the content library.
+
+---
+
 ## Our Strategic Bets
 
 ### Bet 1 — Glow Microlearning Platform
