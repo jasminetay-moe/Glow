@@ -56,7 +56,7 @@ Glow takes existing materials and uses AI to transform them into bite-sized, aud
 
 **Hypothesis:** Teachers can acquire the same knowledge from condensed formats as from long-form materials, with higher retention and lower time cost.
 
-**How we prove it:** Run mandatory modules as a controlled experiment — measure first-attempt pass rates between teachers who completed the condensed Glow format vs the traditional long-form version. A higher pass rate in the condensed group validates both the format and the AI transformation approach. This proof point also carries strategic value beyond teachers: it makes the case for microlearning in student-facing contexts too.
+**How we prove it:** Run mandatory modules as a controlled experiment — measure first-attempt pass rates between teachers who completed the condensed Glow format vs the traditional long-form version. A higher pass rate in the condensed group validates both the format and the AI transformation approach. The metric that matters here is learning outcomes, not platform vanity metrics like adoption or engagement — if condensed content doesn't produce better results, the format has no strategic legs.
 
 **Signal metric:** First-attempt pass rate (condensed vs long-form)
 
