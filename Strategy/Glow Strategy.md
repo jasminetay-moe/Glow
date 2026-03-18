@@ -62,7 +62,9 @@ Glow takes existing materials and uses AI to transform them into bite-sized, aud
 
 **Hypothesis:** Teachers can acquire the same knowledge from condensed formats as from long-form materials, with higher retention and lower time cost.
 
-**How we prove it:** Run mandatory modules as a controlled experiment — measure first-attempt pass rates between teachers who completed the condensed Glow format vs the traditional long-form version. A higher pass rate in the condensed group validates both the format and the AI transformation approach. The metric that matters here is learning outcomes, not platform vanity metrics like adoption or engagement — if condensed content doesn't produce better results, the format has no strategic legs.
+**How we prove it:** Run a controlled experiment — measure first-attempt pass rates between teachers who completed the condensed Glow format vs the traditional long-form version. A higher pass rate in the condensed group validates both the format and the AI transformation approach. The metric that matters here is learning outcomes, not platform vanity metrics like adoption or engagement — if condensed content doesn't produce better results, the format has no strategic legs.
+
+**Open question — mandatory vs non-mandatory modules:** Running the experiment on mandatory modules produces a stronger, cleaner signal (controlled population, higher stakes, no self-selection bias). However, this carries higher risk and is likely to face pushback from AST, who own mandatory module requirements. Running on non-mandatory modules is lower friction but weakens the experiment — teachers who opt in may not be representative, and pass rates carry less weight. This is a call that needs alignment with AST before we commit to an approach.
 
 **Signal metric:** First-attempt pass rate (condensed vs long-form)
 
