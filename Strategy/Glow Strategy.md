@@ -16,7 +16,7 @@ graph TD
     PR1 --> K1["⛔ Kill if\nNo meaningful pass rate improvement"]
     PR2 --> K2["⛔ Kill if\nEngagement below threshold post-pilot"]
 
-    B1 --> SI["🚀 Strategic Impact\nProof of concept for\nstudent-side learning too"]
+    B1 --> SI["🚀 Strategic Impact\nDXD ownership in learning space\n+ proof of concept for student learning"]
     B2 --> SI
 
     style V fill:#1a1a2e,color:#fff,stroke:#none
@@ -92,7 +92,10 @@ We stop investing in a bet if its core hypothesis fails to hold:
 
 ## Strategic Impact
 
-If either or both bets are successful, we prove our point about learning - making it fun, condensed, and delivered well results in better learning outcomes. These strategies can be translated to student learning space as well.
+If either or both bets are successful, the implications go beyond teachers:
+
+- **DXD ownership in the learning space:** Glow establishes DXD as the team that defines how learning is built and delivered — not just the platforms it runs on. This is a positioning play as much as a product play.
+- **Proof of concept for student learning:** A validated model of AI-transformed, contextually delivered learning translates directly to the student side. What works for teachers becomes the blueprint for what comes next.
 
 ---
 
