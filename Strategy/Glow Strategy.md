@@ -47,9 +47,18 @@ Glow CI is embedded directly in Teacher's Workspace. It reads the context of wha
 
 ---
 
-## Why These Two Bets Belong Together
+## How the 2 Bets Fit Together
 
 Glow Microlearning addresses the format problem (too long, too dense). Glow CI addresses the timing problem (too late, too disconnected from practice). Together, they make a complete case for a new model of teacher learning — one that is faster to consume and better timed to land.
+
+---
+
+## Kill Decision
+
+We stop investing in a bet if its core hypothesis fails to hold:
+
+- **Bet 1 (Microlearning):** Kill if the mandatory module experiment shows no meaningful improvement in first-attempt pass rates for the condensed format over long-form
+- **Bet 2 (Glow CI):** Kill if recommendation card engagement remains below a meaningful threshold after a sustained period post-pilot
 
 ---
 
